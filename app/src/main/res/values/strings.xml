@@ -83,7 +83,6 @@
     <string name="card14details">About: \n The Birla Mandir or Birla Temple popularly known as the Laxminarayan Temple is a temple dedicated to Laxminarayan. It is located at Connaught Place, New Delhi, and was built by the Birla family, which is why it is known as the Birla temple. Built-in the early 1900s and spread over a whopping 7.5 acres, the temple houses many shrines, fountains, and gardens along with sculptures and carvings.  </string>
 
 
-
     <string name="MarketName1">Sarojini Nagar Market</string>
     <string name="Details1">About: \n Sarojini Market is synonymous with shopping markets in Delhi. It is popular around India for affordable designer and branded clothes, accessories, and other trinkets. The goods sold are mostly the rejected items from customs during export. New stocks are bought every Tuesday, so try to visit then. Make sure to bargain. \n Nearest Metro Station: Sarojini Nagar Metro Station \n What to Buy: Clothes, accessories, shoes, handicrafts, cosmetics, household and kitchen items, books \n Monday Closed</string>
 
@@ -170,9 +169,8 @@ Location: New Delhi
 Nearest Metro Station: Rajiv Chowk Metro Station
 What to Buy: Paintings, Handicrafts, Funky Jewellery etc.
 Closed On: Sundays</string>
-    
-    
-    
+
+
     <string name="Adventure1">Trampoline Park Gurgaon</string>
     <string name="Loc1">SkyJumper Trampoline Park Gurgaon, ILD Trade Center, Sohna Road, Sector-47, Gurugram</string>
     <string name="NearSt1">Gurgaon Railway St.</string>
