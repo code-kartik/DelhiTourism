@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">Delhi Tourism</string>
+
+    <string name="card1Name">India Gate</string>
+    <string name="card1CS">Central Secretariat</string>
+    <string name="card1Dist">0.9 KM</string>
+    <string name="card1details">About: \n India Gate is a war memorial located in New Delhi, along the Rajpath. It is dedicated to the 82,000 soldiers, both Indian and British, who died during the First World War and the Third Anglo-Afghan War. India Gate looks stunning at night with the fountain displaying colourful lights. The surrounding lush green lawns are a popular picnic spot. The Amar Jawan Jyoti is also located here.</string>
+
+    <string name="card2Name">Qutub Minar</string>
+    <string name="card2CS">Qutub Minar</string>
+    <string name="card2Dist">1.7 KM</string>
+    <string name="card2details">About: \n Qutub Minar is a minaret or a victory tower located in the Qutub complex, a UNESCO World Heritage Site in Delhi\'s Mehrauli area. With a height of 72.5 metres (238 ft), Qutub Minar is the second tallest monument of Delhi. The surrounding Qutub complex has lush green lawns which are popular picnic spot.</string>
+
+    <string name="card3Name">Rashtrapati Bhavan</string>
+    <string name="card3CS">Central Secretariat</string>
+    <string name="card3Dist">0.9 KM</string>
+    <string name="card3details">About: \n Rashtrapati Bhawan is a famous monument of the British Empire which was said to be the palace of the Viceroy of India. It is now the home of the President of India. It is considered to be the best-known monument in India next to Taj Mahal and Qutub Minar.</string>
+
+
+    <string name="card4Name">Red Fort</string>
+    <string name="card4CS">Lal Quila</string>
+    <string name="card4Dist">0.26 KM</string>
+    <string name="card4details">About: \n The Red Fort is a historical fort in the old Delhi area, on the banks of Yamuna. Shah Jahan constructed it in 1639 as a result of a capital shift from Agra to Delhi. Built from red sandstone, it is home to several museums. Every year, the Indian Prime Minister unfurls the national flag here on the Independence Day.</string>
+
+
+    <string name="card5Name">Jantar Mantar</string>
+    <string name="card5CS">Patel Chowk</string>
+    <string name="card5Dist">0.55 KM</string>
+    <string name="card5details">About: \n Located in New Delhi, the Jantar Mantar was one of the five sites built by Maharaja Jai Singh II of Jaipur. The site consists of 13 architectural astronomy instruments. The main purpose of the observatory was to compile the astronomical tables and to predict the movement and timings of the sun, moon and planets.</string>
+
+
+    <string name="card6Name">National Zoological park</string>
+    <string name="card6CS">Supreme Court</string>
+    <string name="card6Dist">2.8 KM</string>
+    <string name="card6details">About: \n Also known as Chidiya Ghar, Delhi Zoo is a favourite weekend spot among adults and children. From biggest cats to the tiniest birds, the zoo has all kinds of animals and birds. It has canteens inside for the visitors and battery-operated vehicles.</string>
+
+
+    <string name="card7Name">Lotus Temple</string>
+    <string name="card7CS">Okhla N.S.I.C</string>
+    <string name="card7Dist">0.7 KM</string>
+    <string name="card7details">About: \n The Lotus Temple is one of the seven Baha\'i House of Worship present around the world. Known for its stunning white petal lotus architecture, iy is one of the most visited establishments in the world.</string>
+
+
+    <string name="card8Name">National Museum</string>
+    <string name="card8CS">Udyog Bhawan</string>
+    <string name="card8Dist">1.0 KM</string>
+    <string name="card8details">About: \n Also known as the National Museum of India, the National Museum in New Delhi is one the largest museums in India, situated on the corner of the Janpath and Maulana Azad Road. Established in 1949, the blueprints of the majestic repository were prepared by the Gwyer Committee set up by the Government of India in 1946.</string>
+
+
+    <string name="card9Name">Railway Museum</string>
+    <string name="card9CS">Sir M. Vishweshwaraiah Moti Bagh</string>
+    <string name="card9Dist">1.5 KM</string>
+    <string name="card9details">About: \n Located in the vicinity of Chanakyapuri, the Rail Museum aims to preserve the 163 years old railway heritage of India. Popularly known as the National Railway Museum, the museum is spread over 10 acres of land and houses some fantabulous railway memorabilia.</string>
+
+
+    <string name="card10Name">Museum of Illusions</string>
+    <string name="card10CS">Rajiv Chowk</string>
+    <string name="card10Dist">0.1 KM</string>
+    <string name="card10details">ABout: \n The Museum of Illusions in Connaught Place, New Delhi is India\'s first optical illusion museum. It is a fun place to challenge the senses by exploring exhibits which include holograms, a supposedly rotating cylinder, a room with no gravity, rooms with mirrors that distort reality and much more.</string>
+
+
+    <string name="card11Name">Agrasen ki Baoli</string>
+    <string name="card11CS">Barakhamba Road</string>
+    <string name="card11Dist">0.65 KM</string>
+    <string name="card11details">About: \n A protected monument under the Archaeological Survey of India, Agrasen ki Baoli is a 60 meter long and 15 meter wide historical step well on Halley Road, New Delhi. It is an ancient water reservoir having 103 stone steps. It is one of the most visited places in Delhi having a serene atmosphere.</string>
+
+
+    <string name="card12Name">Akshardham Mandir</string>
+    <string name="card12CS">Akshardham</string>
+    <string name="card12Dist">0.3 KM</string>
+    <string name="card12details">About: \n The Akshardham Temple, also known as Swaminarayan Akshardham is dedicated to Lord Swaminarayan. It is known for its stunning architecture. Akshardham complex is home to India\'s largest step well which is a host to the mesmerising water show each evening.</string>
+
+
+    <string name="card13Name">Gurudwara Bangla Sahib</string>
+    <string name="card13CS">Shivaji Stadium</string>
+    <string name="card13Dist">0.28 KM</string>
+    <string name="card13details">About: \n Gurudwara Bangla Sahib is one of the most important Sikh gurdwara, aka Sikh house of worship, in Delhi, India and known for its association with the eighth Sikh Guru, Guru Har Krishan, as well as the pool inside its complex, known as the \'Sarovar. It was first built as a small temple by Sikh General Sardar Bhagel Singh in 1783, who supervised the construction of nine Sikh shrines in Delhi in the same year, during the reign of Mughal Emperor, Shah Alam II.</string>
+
+
+    <string name="card14Name">Birla Mandir</string>
+    <string name="card14CS">R.K. Ashram Marg</string>
+    <string name="card14Dist">1.5 KM</string>
+    <string name="card14details">About: \n The Birla Mandir or Birla Temple popularly known as the Laxminarayan Temple is a temple dedicated to Laxminarayan. It is located at Connaught Place, New Delhi, and was built by the Birla family, which is why it is known as the Birla temple. Built-in the early 1900s and spread over a whopping 7.5 acres, the temple houses many shrines, fountains, and gardens along with sculptures and carvings.  </string>
+
+
+
+    <string name="MarketName1">Sarojini Nagar Market</string>
+    <string name="Details1">About: \n Sarojini Market is synonymous with shopping markets in Delhi. It is popular around India for affordable designer and branded clothes, accessories, and other trinkets. The goods sold are mostly the rejected items from customs during export. New stocks are bought every Tuesday, so try to visit then. Make sure to bargain. \n Nearest Metro Station: Sarojini Nagar Metro Station \n What to Buy: Clothes, accessories, shoes, handicrafts, cosmetics, household and kitchen items, books \n Monday Closed</string>
+
+    <string name="MarketName2">Janpath Market</string>
+    <string name="Details2">Janpath is another very popular market in Delhi known for cheap clothes, accessories, shoes and other items. Gujarati and Tibetan Market are the two streets that combine to form the main Janpath market. You will get ethnic apparel, paintings and artworks, leather goods, embroidered handbags and jholas, Pashmina shawls, carpets, junk jewelry, Tibetan masks, Kolhapuri chappals, brass trinkets and winter clothing at affordable cost.
+Location: New Delhi
+Nearest Metro Station: Rajiv Chowk Metro Station
+What to Buy: Clothes, Silver Jewellery, Paintings, Wooden Handicrafts etc.
+Closed on: Sunday</string>
+
+    <string name="MarketName3">Chandni Chowk</string>
+    <string name="Details3">Undoubtedly the most famous and oldest shopping market in Delhi since the Mughal era, Chandni Chowk is separated into various sections (Moti Bazaar, Chor Bazaar, Paranthe Wali Gali, Moti Bazaar etc), each of which has become renowned marketplaces. Open from 10 AM till 8 PM except Sunday, here you will get silver jewelry and accessories, books, electronics, stationary, lehenga, embroidered bags, cotton and silk textile, dry fruits, spices and more.
+Location: Central Metro Station
+Nearest Metro Station: Chandni Chowk Metro
+What to Buy: Ethnic Wear, Jewellery, Books, Artefacts etc
+Closed on: Sunday</string>
+
+    <string name="MarketName4">Dilli Haat</string>
+    <string name="Details4">Visit between 11 AM and 10 PM any day of the week to check out Dilli Haat stalls with thatched roofs, giving a village market vibe. The cultural activities, folk dance and song performances are additional attractions. Among the handicrafts, you would love the Madhubani paintings, embroidered textiles, imitation and beaded jewellery, Phulkari works, tote bags made of camel hide, bamboo décor items, sandalwood and rosewood carving, metal crafts and terracotta models. A must visit place if you plan to shop in Delhi.
+Location: South Delhi
+Nearest Metro Station: INA Metro Station
+What to Buy: Cotton Clothes, silver Jewellery, Handicrafts, Leather Products etc.
+Closed on: Open All Days</string>
+
+    <string name="MarketName5">Paharganj</string>
+    <string name="Details5">Visit Paharganj Market any day except Monday between 11 AM and 9 PM to enjoy the wholesale shopping of handicrafts, textiles, bohemian clothing, wooden statues, hookah pipes, handmade junk jewelry, earrings, necklaces, bangles, CDs, dream-catchers and more. There are a few book stores and incense shops to apart from bakeries. The mirror-work dupattas, cushion covers and wall hangings are available at low prices.
+Location: Central Delhi
+Nearest Metro Station: New Delhi Metro Station
+What to Buy: Leather Products, Western Wear, Jewellery etc.
+Closed On: Monday</string>
+
+    <string name="MarketName6">Karol Bagh</string>
+    <string name="Details6">From affordable readymade garments at Ajmal Khan Road to traditional jewelry at Silver Street (Bank Street), Karol Bagh is Delhi’s famous and among the oldest markets for bridal shopping. Except Monday, Karol Bagh is open daily from 10 AM till 8 PM. Gaffar Market for imported goods and Arya Samaj Road for used books are some of the most popular sections of the market.
+Location: Central Delhi
+Nearest Metro Station: Karol Bagh Delhi Metro Station
+What to Buy: Electronic Appliances, Home Accessories, Jewellery etc.
+Closed on: Monday</string>
+
+    <string name="MarketName7">Palika Bazar</string>
+    <string name="Details7">Apart from Sunday, this underground air-conditioned market in Delhi is open from 10 AM till 7 PM and offers everything from clothing to accessories, electronics to perfumes and footwear to handicrafts. Make sure to bargain and verify the authenticity of the items to get the best deal. Besides, there is ample opportunity to get video games and gaming consoles like Xbox and Playstation at affordable prices.
+Location: New Delhi
+Nearest Metro Station: Rajiv Chow Metro Station
+What to Buy: Clothes, Electronic Gadgets, Artefacts etc.
+Closed on: Sunday</string>
+
+    <string name="MarketName8">Khan Market</string>
+    <string name="Details8">Khan Market is one of the oldest and the costliest markets in India. In the market lies a haven for both locals and expatriates. Established in 1951, the market has successfully held the essence of its original structure even in times of rapid modernization. The U-shaped double story complexes tend to favour mostly the elite class. No matter what the clock strikes, if you need to hang out late at night, Khan Market is the place for you. It remains open till 12:00 AM.
+Location: Rabindra Nagar, New Delhi
+Nearest Metro Station: Khan Market Delhi Metro Station
+What to Buy: Books, Branded Clothes, Cosmetics etc.
+Closed On: Sundays</string>
+
+    <string name="MarketName9">Chawri Bazar</string>
+    <string name="Details9">Chawri Bazaar is one of the most visited wholesale markets in Delhi dealing in general utility products like paper, copperware and brassware. It is frequented by idol-makers due to availability of brass and copper, while there is a reputation of selling the most number of paper products, especially wedding cards during the wedding season.
+Location: New Delhi
+Nearest Metro Station: Chawri Bazar metro station
+What to Buy: Copper, Brass, and Paper Products
+Closed on: Sunday</string>
+
+    <string name="MarketName10">Kamla Nagar Market</string>
+    <string name="Details10">Quite frequented by the students, mostly women, of the North Campus of the Delhi University, Kamla Nagar Market remains open from 10 AM till 10 at night from Tuesday to Sunday. Kurtis and stylish top available at as low as 150 INR price makes the market popular and you will also get hair accessories, sunglasses, ornaments and silver jewellery at affordable cost.
+Location: New Delhi
+Nearest Metro Station: Pulbangash Metro Station
+What to Buy: Bags, Accessories, Clothes etc.
+Closed On: Mondays</string>
+
+    <string name="MarketName11">Sadar Bazaar</string>
+    <string name="Details11">pen from Monday through Saturday from 8 AM until 10 PM, Sadar Bazaar is among the largest wholesale markets in Delhi located on western Khari Baoli. Dedicated mostly to household goods, Sadar Bazaar is stocked up with locally made jewellery, toys, China products, branded and replica shoes and outfits as over a hundred local Indian food, candies and sweet treats.
+Location: North Delhi
+Nearest Metro Station: Noida City Center Metro
+What to Buy: Gift Items, Toys, Artificial Jewellery etc.
+Closed On: Sundays</string>
+
+    <string name="MarketName12">Chor Bazaar</string>
+    <string name="Details12">Translated into ‘Thieves Market’, this famous flea market in Delhi remains open every Sunday from 6 AM to 6 PM and is overflowing with used, surplus, damaged and often stolen goods including sports accessories, clothes, shoes, electronics, watches, woven rugs, old books and gardening tools. Look out for vintage items like analogue cameras, vintage clocks and other household accessories.
+Location: Raj Ghat, New Delhi
+Nearest Metro Station: Chandni Chowk Metro station
+What to Buy: Old Wares, Handicrafts, Books etc.
+Closed On: All Days Except Sunday</string>
+
+    <string name="MarketName13">Connaught Place</string>
+    <string name="Details13">Comprising of inner circle (A-block to F-block) and outer circle (G-block to P-block) with popular brand outlets namely Allen Solly, Park Avenue, Lee, Lacoste and Pepe, Connaught Place dates back to the British era and is considered as the heart of Delhi. Open daily till late night, this market has stores, showrooms, restaurants, multiplexes and cafés. You will get jewelry, apparel, handicrafts, electronics, perfume, posters, phone covers and many more.
+Location: New Delhi
+Nearest Metro Station: Rajiv Chowk Metro Station
+What to Buy: Paintings, Handicrafts, Funky Jewellery etc.
+Closed On: Sundays</string>
+    
+    
+    
+    <string name="Adventure1">Trampoline Park Gurgaon</string>
+    <string name="Loc1">SkyJumper Trampoline Park Gurgaon, ILD Trade Center, Sohna Road, Sector-47, Gurugram</string>
+    <string name="NearSt1">Gurgaon Railway St.</string>
+</resources>
