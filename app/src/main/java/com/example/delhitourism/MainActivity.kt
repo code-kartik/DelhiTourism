@@ -20,9 +20,10 @@ class MainActivity : AppCompatActivity() {
 
         val imageslide:ImageSlider = findViewById(R.id.imageslider)
         val slide: ArrayList<SlideModel> = ArrayList()
+
+        slide.add(SlideModel("https://i.pinimg.com/736x/40/8a/d0/408ad0209060871deb6458aaa43d7e38.jpg",ScaleTypes.FIT))
         slide.add(SlideModel("https://www.holidify.com/images/bgImages/DELHI.jpg",ScaleTypes.FIT))
         slide.add(SlideModel("https://lagavetavoladora.com/wp-content/uploads/2015/06/Templo-del-Loto-e1435253152857.jpg",ScaleTypes.FIT))
-        slide.add(SlideModel("https://i.pinimg.com/736x/40/8a/d0/408ad0209060871deb6458aaa43d7e38.jpg",ScaleTypes.FIT))
         slide.add(SlideModel("https://assets.traveltriangle.com/blog/wp-content/uploads/2015/08/Rashtrapati-Bhavan.jpg",ScaleTypes.FIT))
         slide.add(SlideModel("https://blog.urbanadventures.com/wp-content/uploads/2017/10/BAPS_Akshardham_New_Delhi.jpg",ScaleTypes.FIT))
         imageslide.setImageList(slide, ScaleTypes.FIT)
