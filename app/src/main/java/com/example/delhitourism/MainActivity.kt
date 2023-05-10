@@ -3,6 +3,7 @@ package com.example.delhitourism
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
+import android.widget.ScrollView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.browser.customtabs.CustomTabsIntent
 import androidx.cardview.widget.CardView
@@ -49,10 +50,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        val adventure:CardView = findViewById(R.id.cardview5)
-        adventure.setOnClickListener{
-            val intent = Intent(this@MainActivity, Adventure::class.java)
-            startActivity(intent)
-        }
+        val scrollView:ScrollView = findViewById(R.id.scrollView)
+        scrollView.smoothScrollTo(0,1)
     }
 }
